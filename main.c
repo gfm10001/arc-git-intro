@@ -25,8 +25,10 @@
 // git config --global user.email "gfm10001@student.mdh.se"
 // git commit --amend --reset-author -m "adjusted..."
 //
-// Commit - once add message:
+// Commit:
 // git commit -am "Init a new project"
+//
+
 
 #include <stdio.h>
 
@@ -34,5 +36,4 @@ int main(void)
 {
    printf("\nHej Git!\n\n");
    return 0;
-   
 } // main
