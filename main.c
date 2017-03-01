@@ -14,8 +14,19 @@
 // Addera nya filer till git rep. lokalt
 // git add .
 //
-
-
+// Remove main.c~ from added files
+// git reset main.c~
+//
+// Commit:
+// git commit -m "Init a new project"
+//
+// Once only:
+// git config --global user.name "GoFo"
+// git config --global user.email "gfm10001@student.mdh.se"
+// git commit --amend --reset-author -m "adjusted..."
+//
+// Commit - once add message:
+// git commit -am "Init a new project"
 
 #include <stdio.h>
 
