@@ -28,6 +28,8 @@
 // Commit:
 // git commit -am "Init a new project"
 //
+// Transfer to server:
+// git push
 
 
 #include <stdio.h>
