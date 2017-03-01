@@ -5,10 +5,16 @@
 // GIT commands:
 // =============
 // 
+// Skapa ny katalog på lokal dator:
 // git clone https://github.com/gfm10001/arc-git-intro.git
 //
+// Kolla git status:
 // git status
+//
+// Addera nya filer till git rep. lokalt
 // git add .
+//
+
 
 
 #include <stdio.h>

@@ -31,3 +31,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Backup-files  (added 2017-03-01/GF)
+*.c~
+.gitignore~
+
+
